@@ -6,9 +6,9 @@
 
 <h2> // About me </h2>
 
-- 👨‍💻 Currently working as a **front-end developer**
-- 🤓 Seeking to become a **full-stack developer**
-- 🎓 I'm also pursuing a bachelors degree in **software engineering**
+- 👨🏻‍🎓 Actualmente soy estudiante de la Universidad Nacional de Colombia
+- 🤓 Cursando para conseguir el titulo de Cientifico de la computación
+
 
 <h2>  // Skills  </h2>
   
