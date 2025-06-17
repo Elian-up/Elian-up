@@ -17,8 +17,6 @@
   
   - <h4> currently learning </h4>
       <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
-      <img src = "[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://niixer.com/wp-content/uploads/2024/03/logo-de-pseint.png)" alt = "PSeint" />
-- <h3> tools </h3>
     <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
   <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
