@@ -17,11 +17,8 @@
   
   - <h4> currently learning </h4>
       <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
-    <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
-  
+
   - <h4> currently learning </h4>
   
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
